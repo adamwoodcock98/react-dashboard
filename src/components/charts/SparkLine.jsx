@@ -21,7 +21,7 @@ const SparkLine = ({ id, height, width, color, data, type, currentColor }) => {
       }}
       dataSource={data}
       xName="x"
-      yName="y"
+      yName="yval"
       type={type}
     >
       <Inject services={[SparklineTooltip]} />
