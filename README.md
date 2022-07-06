@@ -4,10 +4,15 @@ React Dashboard
 A project to create a beautiful dashboard using ReactJS.
 
 ## Technologies 
+
 * ReactJS
 * TailwindCSS
 * Syncfusion
 * React Context API
+
+## Using the Dashboard
+
+The dashboard is hosted on Netlify and can be see [here](https://aw-react-dashboard.netlify.app/).
 
 ## Available Scripts
 
@@ -20,11 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
